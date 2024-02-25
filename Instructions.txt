@@ -1,0 +1,9 @@
+1. You have to use Tailwind CSS for styling, You are not allowed to write CSS in a normal form
+
+2. You can use Tailwind CSS website for searching about any property
+
+3. Use of ChatGPT or Google or Whattsapp is prohibited
+
+4. Talking to or seeking help from people around you is prohibited.
+
+5. If you are found using Google/ChatGPT during class or talking to someone, you will be banned without notice.
